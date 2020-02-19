@@ -1,0 +1,5 @@
+Bill;Gates;via Redmond 10;06688989;60
+Steve;Jobs;via Cupertino 13;0612344;56
+Clark;Kent;Metropolis 12;9998547;38
+Peter;Parker;New York;06523652;17
+Bruce;Wayne;Gotham City 42;0666672;35
